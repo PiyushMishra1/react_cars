@@ -1,0 +1,14 @@
+{
+    "cars|10-20": [
+      {
+        "id|+1": 1,
+        "make": "{{company}}",
+        "model": "{{autoModel}}",
+        "year": "{{year}}",
+        "price|10000-50000": 1,
+        "description": "{{lorem}}",
+        "image": "https://via.placeholder.com/300",
+        "features": ["{{lorem}}", "{{lorem}}", "{{lorem}}"]
+      }
+    ]
+  }
